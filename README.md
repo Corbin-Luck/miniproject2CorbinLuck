@@ -17,7 +17,7 @@ The program looks though a patient data set and plots a graph on the number of h
 
 Download the dataset from https://www.kaggle.com/datasets/prasad22/healthcare-dataset?resource=download
 
-Then create a data folder within your main branch and extract the csv file into it
+Then create a new directory within your project folder called data and extract the csv file into it from the .zip
 
 Please install the pip requirements:
 ```
